@@ -1,0 +1,184 @@
+@media screen and (max-width: 1919px) and (min-width: 1200px){
+  
+
+/*-----------!!!--------------ГЛАВНАЯ СТРАНИЦА-------!!!-----------------------*/
+
+
+.header_content_uppart_search_container input {
+  width: 15vw;
+}
+
+.header_content_uppart_rightpart {
+  margin-left: 40px;
+  column-gap: 10px;
+}
+
+.header_content_uppart_contacts {
+  margin-left: 10px;
+}
+
+.header_content_uppart_getconsult {
+  font-size: 1rem;
+}
+
+  .header_content {
+    width: calc(100vw - 40px);
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+
+
+
+
+
+
+.firstsec_mainpage_content {
+  padding-left: 100px;
+}
+
+
+
+
+
+.catalogsec_mainpage_content_list_item_container {
+  width: calc(100vw - 40px);
+  padding-left: 20px;
+  padding-right: 20px;
+  column-gap: 20px;
+}
+
+
+
+
+
+.whywesec_mainpage > div:nth-child(1) > div:nth-child(1) {
+  padding-left: 20px;
+  padding-right: 20px;
+  width: calc(100vw - 40px);
+}
+
+
+
+
+
+
+
+
+
+.formsec_mainpage > div:nth-child(1) > div:nth-child(1) {
+  padding-left: 20px;
+  padding-right: 20px;
+  width: calc(100vw - 40px);
+}
+
+
+
+.getcatalogsec_mainpage > div:nth-child(1) > div:nth-child(1) {
+  padding-left: 20px;
+  padding-right: 20px;
+  width: calc(100vw - 40px);
+}
+
+
+
+
+
+
+
+.footer_content_uppart_title {
+  padding-left: 20px;
+  padding-right: 20px;
+  width: calc(100vw - 40px);
+}
+
+.footer_content_downpart_container {
+  padding-left: 20px;
+  padding-right: 20px;
+  width: calc(100vw - 42px);
+  column-gap: 20px;
+}
+
+.footer_content_downpart_navmenu {
+  column-gap: 30px;
+}
+
+.footer_content_downpart_contacts > a:nth-child(2) {
+  font-size: 1.5rem;
+}
+
+.footer_content_downpart_navmenu_list_item a {
+  white-space: nowrap;
+}
+
+.footer_content_downpart_subscribe h4 {
+  text-align: center;
+}
+
+.footer_content_downpart_contacts {
+  z-index: 10;
+}
+
+.footer_content_downpart_subscribe {
+  z-index: 10;
+}
+
+.footer_content_downpart_logo > a:nth-child(1) > img:nth-child(1) {
+  width: 190px;
+}
+
+.footer_content_downpart_contacts_container {
+  flex-direction: column;
+  row-gap: 20px;
+}
+
+.footer_content_downpart_container_upbtn {
+  right: 0;
+}
+
+
+.footer_content_downpart_container {
+    column-gap: 35px;
+  }
+
+
+
+
+
+
+/*-----------!!!--------------СТРАНИЦА КОНТАКТЫ-------!!!-----------------------*/
+
+.firstsec_contactspage > div:nth-child(1) > div:nth-child(1) {
+  padding-left: 20px;
+  padding-right: 20px;
+  width: calc(100vw - 40px);
+}
+
+.firstsec_contactspage_content_main_links_item > a {
+  font-size: 1.125rem;
+}
+
+
+/*-----------!!!--------------СТРАНИЦА ДОСТАВКА И ОПЛАТА-------!!!-----------------------*/
+
+
+.firstsec_deliverypage > div:nth-child(1) > .main__container {
+  padding-left: 20px;
+  padding-right: 20px;
+  width: calc(100vw - 40px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
